@@ -1,0 +1,13 @@
+mysql:
+  name: "activity"
+  host:
+  port: 3306
+  user:
+  pass:
+
+
+jwt:
+  secret: abc123
+
+url:
+  host: "http://localhost:8081"
